@@ -1,0 +1,97 @@
+<!--
+此文件为开发者工具生成，生成时间: 2022/10/8下午10:12:28
+使用方法：
+在 C:\Users\lidongxuan\WeChatProjects\miniprogram-1\pages\index\index.wxml 引入模板
+
+```
+<import src="index.skeleton.wxml"/>
+<template is="skeleton" wx-if="{{loading}}" />
+```
+
+在 C:\Users\lidongxuan\WeChatProjects\miniprogram-1\pages\index\index.wxss 中引入样式
+```
+@import "./index.skeleton.wxss";
+```
+
+更多详细信息可以参考文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/skeleton.html
+-->
+<template name="skeleton">
+  <view class="sk-container">
+    <scroll-view class="container sk-image" scroll-y="true">
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-48 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-456 sk-text">视频网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-251 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-3 sk-text">音乐网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-591 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-301 sk-text">搜索网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-747 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-728 sk-text">游戏网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-382 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-987 sk-text">旅游网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-249 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-896 sk-text">旅游网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-962 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-738 sk-text">旅游网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-609 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-722 sk-text">旅游网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-181 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-330 sk-text">旅游网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+      <view class="single_content">
+        <a class="sk-transparent sk-text-14-2857-38 sk-text">baidu</a>
+        <h1 class="single_content_title sk-transparent sk-text-14-2857-154 sk-text">旅游网站分享</h1>
+        <view class="single_content_view">
+          <rich-text class="single_content_view_href" data-item="[object Object]"></rich-text>
+        </view>
+      </view>
+    </scroll-view>
+  </view>
+</template>
