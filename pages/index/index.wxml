@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<scroll-view scroll-y="true" class="container">
+  <view wx:for="{{content}}" wx:for-index="idx" class="single_content">
+    <h1 class="single_content_title">{{item.title}}</h1>
+    <view class="single_content_view">
+      <rich-text bindtap="openUrl" data-item="{{ele}}" class="single_content_view_href" wx:key="{{ele.title}}" wx:for="{{item.list}}" wx:for-item="ele">
+        {{ele.title}}
+      </rich-text>
+    </view>
+  </view>
+</scroll-view>

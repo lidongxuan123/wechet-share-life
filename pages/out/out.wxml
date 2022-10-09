@@ -1,0 +1,5 @@
+<!--pages/out/out.wxml-->
+<view>
+    <web-view src="{{curHref}}">
+    </web-view>
+</view>
